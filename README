@@ -1,0 +1,27 @@
+# Customer Behavior Analysis
+
+## 📌 Project Overview
+This is a beginner-level data analysis project created by following a guided tutorial to understand the complete data analytics workflow. The project analyzes customer shopping behavior using Python and Power BI.
+
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Jupyter Notebook
+
+## 📊 Key Objectives
+- Clean and explore customer shopping data
+- Analyze purchasing behavior by category, age group, and subscription status
+- Build an interactive Power BI dashboard
+
+## 🔍 Key Insights
+- Accessories generate the highest revenue among product categories.
+- Customers aged 26–45 contribute the most to overall revenue.
+- Subscription-based customers show higher engagement levels.
+
+## 📁 Project Structure
+- `data/` – Raw dataset  
+- `notebook/` – Data cleaning and EDA  
+- `dashboard/` – Power BI dashboard screenshot  
+
+## 📌 Note
+This project was built as a guided learning exercise with minor customizations and insights added for better understanding.
