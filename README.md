@@ -1,3 +1,5 @@
+![Dashboard Preview](Dashboard/DASHBOARD%20SS.png)
+
 # Customer-Behavior-Analysis
 Beginner data analysis project using Python and Power BI
 
